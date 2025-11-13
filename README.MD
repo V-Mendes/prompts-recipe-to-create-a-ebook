@@ -69,7 +69,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/account"
+      src="https://avatars.githubusercontent.com/u/104044744?"
     />
     <p>&nbsp&nbsp&nbspVinicius Mendes<br>
     &nbsp&nbsp&nbsp

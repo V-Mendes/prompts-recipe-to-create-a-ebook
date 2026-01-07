@@ -74,9 +74,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <p>&nbsp&nbsp&nbspVinicius Mendes<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/V-Mendes">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/vinicius-mendes31">LinkedIn</a>
-&nbsp;|&nbsp;
+    GitHub</a>
+    <a href="https://linkedin.com/in/vinicius-mendes31">
+    LinkedIn</a>
 </p>
 <br/><br/>
 <p>
